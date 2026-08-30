@@ -7,7 +7,7 @@ import './App.css'
 const socials = [
   {
     label: 'LinkedIn',
-    href: 'https://linkedin.com/tantran-',
+    href: 'https://www.linkedin.com/in/tantran-',
     icon: <LinkedInIcon fontSize="large" />,
   },
   {
