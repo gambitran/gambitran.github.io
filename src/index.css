@@ -1,0 +1,22 @@
+:root {
+  font-family: 'Roboto', system-ui, 'Segoe UI', Helvetica, Arial, sans-serif;
+  color-scheme: dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  background: linear-gradient(135deg, #000000 0%, #0a2540 55%, #0b3d91 100%);
+  background-attachment: fixed;
+}
+
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+}
